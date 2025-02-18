@@ -42,4 +42,4 @@ Feel free to connect, collaborate, or reach out for any discussions!
 
 ## 📈 GitHub Stats
 
-![Akarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akarshjaiswal&show_icons=true&theme=radical)
+![Akarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akarshjai&show_icons=true&theme=radical)
