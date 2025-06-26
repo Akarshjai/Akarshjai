@@ -15,13 +15,15 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/akarshjaiswal">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:akarsh@example.com">
-    <img src="https://img.shields.io/badge/Email-akarsh%40example.com-green?logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-green?logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/github/followers/akarshjai?label=Follow&style=social" alt="GitHub Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=akarshjai&color=blue" alt="Profile Views"/>
+  <a href="https://github.com/akarshjai?tab=followers">
+    <img src="https://img.shields.io/github/followers/akarshjai?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=akarshjai&color=blueviolet" alt="Profile Views"/>
 </p>
 
 ---
@@ -39,37 +41,37 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 **B.E. in CSE** at Chandigarh University (expected 2026)  
-- 🔭 Currently building **cloud-native applications** on Google Cloud & AWS  
-- 🌱 Exploring **pathfinding algorithms**, **IoT**, and **real-time data processing**  
+- 🎓 **B.E. in CSE** at Chandigarh University (2023–2026)  
+- 🔭 Building **cloud-native apps** on Google Cloud & AWS  
+- 🌱 Exploring **IoT**, **pathfinding algorithms**, **real-time data processing**  
 - 💬 Ask me about **Docker**, **MongoDB**, **Apache Spark**, **Cassandra**  
-- ⚡ Fun fact: I’m from Jhumri Telaiya and stand 5ft tall – but my code’s taller!  
+- ⚡ Fun fact: I’m from Jhumri Telaiya and stand 5ft tall—my code stands taller!  
 
 ---
 
 ## 💼 Experience & Projects
 
-### 🔹 AniMi – Anime Discovery Platform  
+### 🔹 [AniMi – Anime Discovery Platform](https://github.com/akarshjai/AniMi)
 *Nov 2022 – Jan 2023*  
 - Built with **React**, **Node.js**, **MongoDB**  
 - Features:  
-  - 🔍 Advanced search & filtering  
-  - 📺 Video streaming integration (YouTube API)  
-  - 🎨 Dark mode toggle & responsive design  
+  - 🔍 Advanced search & filter  
+  - 📺 YouTube API integration for streaming  
+  - 🎨 Dark mode & responsive design  
 
-### 🔹 AttendWise – Automated Attendance System  
+### 🔹 [AttendWise – Automated Attendance System](https://github.com/akarshjai/AttendWise)
 *Ongoing*  
-- Tech stack: **Python**, **Flask**, **SQLite**  
+- Tech: **Python**, **Flask**, **SQLite**  
 - Highlights:  
   - 📊 Dynamic pricing packages  
-  - 🔔 Real-time notifications via **Twilio**  
-  - 🔒 OAuth authentication (Google, Facebook)  
+  - 🔔 Real-time SMS via **Twilio**  
+  - 🔒 OAuth (Google, Facebook)  
 
-### 🔹 MazeSolver – Pathfinding Visualizer  
+### 🔹 [MazeSolver – Pathfinding Visualizer](https://github.com/akarshjai/MazeSolver)
 *Personal Project*  
-- Implemented **Dijkstra**, **A\***, **BFS**, **DFS**  
-- Live visualization using **Pygame**  
-- Integrated user-drawn mazes & step-by-step playback  
+- Algorithms: **Dijkstra**, **A\***, **BFS**, **DFS**  
+- Live viz with **Pygame**  
+- User-drawn mazes & step-by-step playback  
 
 ---
 
@@ -78,12 +80,12 @@
 <details>
 <summary>Click to expand!</summary>
 
-| Languages      | Cloud        | Databases       | Frameworks & Tools         |
-| -------------- | ------------ | --------------- | -------------------------- |
-| Python 🐍      | GCP ☁️       | MongoDB 🗄️      | Docker 🐳                  |
-| C++ ➕➕        | AWS ☁️       | Cassandra 💾    | Apache Spark ⚡            |
-| Java ☕        | Kubernetes   | SQL (MySQL)     | Flask, React, Node.js      |
-| JavaScript 🔥 | Terraform     | Redis           | Git, CI/CD (GitHub Actions) |
+| Languages      | Cloud & DevOps      | Databases       | Frameworks & Tools         |
+| -------------- | ------------------- | --------------- | -------------------------- |
+| Python 🐍      | GCP ☁️               | MongoDB 🗄️      | Docker 🐳                  |
+| C++ ➕➕        | AWS ☁️               | Cassandra 💾    | Apache Spark ⚡            |
+| Java ☕        | Kubernetes          | MySQL           | Flask, React, Node.js      |
+| JavaScript 🔥 | Terraform           | Redis           | Git, GitHub Actions (CI)   |
 
 </details>
 
@@ -92,8 +94,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akarshjai&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshjai&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akarshjai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshjai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -101,9 +103,9 @@
 ## 📜 Certifications
 
 - 🎓 **SQL: A Practical Introduction for Querying Databases** (IBM, Coursera) – Mar 4, 2024  
-- 🎓 **Introduction to Big Data with Spark and Hadoop** (IBM) – Grade 89.95%  
-- 🎓 **Machine Learning with Apache Spark** (IBM) – Grade 97.5%  
-- 🎓 **AI Workflow: Machine Learning, Visual Recognition & NLP** (IBM) – Grade 86.6%  
+- 🎓 **Intro to Big Data with Spark & Hadoop** (IBM) – Grade: 89.95%  
+- 🎓 **Machine Learning with Apache Spark** (IBM) – Grade: 97.50%  
+- 🎓 **AI Workflow: ML, Visual Recognition & NLP** (IBM) – Grade: 86.60%  
 
 ---
 
@@ -111,15 +113,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akarshjaiswal">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:akarsh@example.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-brightgreen?logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-green?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>  
+  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>
 </p>
